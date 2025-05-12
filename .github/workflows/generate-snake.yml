@@ -9,13 +9,13 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: Generate snake animation
+      - name: generate snake svg
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: TunahanAkdere
           output_only: true
 
-      - name: Push to output branch
+      - name: push to github pages
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
