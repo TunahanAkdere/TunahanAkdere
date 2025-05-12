@@ -1,4 +1,4 @@
-name: generate-snake-game
+name: Generate Snake Game
 
 on:
   schedule:
@@ -9,13 +9,16 @@ jobs:
   generate:
     runs-on: ubuntu-latest
     steps:
-      - name: generate snake svg
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Generate Snake SVG
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: TunahanAkdere
           output_only: true
 
-      - name: push to github pages
+      - name: Push snake.svg to output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
