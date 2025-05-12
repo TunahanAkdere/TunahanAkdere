@@ -6,19 +6,20 @@ on:
   workflow_dispatch:
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+    name: generate-snake-game-from-github-contribution-grid
     steps:
       - name: Checkout repository
         uses: actions/checkout@v3
 
-      - name: Generate Snake SVG
+      - name: Generate snake game from GitHub contribution grid
         uses: Platane/snk@v3.3.0
         with:
           github_user_name: TunahanAkdere
           output_only: true
 
-      - name: Push snake.svg to output branch
+      - name: Push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
           target_branch: output
