@@ -1,24 +1,25 @@
 name: Generate Snake Game
 
 on:
-  schedule:
-    - cron: "0 0 * * *"  # her gün otomatik çalışır
-  workflow_dispatch:      # manuel tetiklemeyi de açar
+  schedule:                     # Her gün çalışır
+    - cron: "0 0 * * *"
+  workflow_dispatch:            # Manuel tetikleme de mümkün
 
 jobs:
-  generate:
+  generate-snake:
     runs-on: ubuntu-latest
+    name: generate-snake-game-from-github-contribution-grid
     steps:
-      - name: Generate snake game from GitHub contribution grid
+      - name: generate-snake-game-from-github-contribution-grid
         uses: Platane/snk@v3.3.0
         with:
-          github_user_name: TunahanAkdere
-          outputs: dist
+          github_user_name: TunahanAkdere      # << senin GitHub kullanıcı adın
+          outputs: dist                        # SVG çıktısı bu klasöre yazılacak
 
-      - name: Push to output branch
+      - name: push snake.svg to the output branch
         uses: crazy-max/ghaction-github-pages@v3
         with:
-          target_branch: output
-          build_dir: dist
+          target_branch: output                # bu branch otomatik oluşturulacak
+          build_dir: dist                      # yukarıda belirtilen klasör
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
