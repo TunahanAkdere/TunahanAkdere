@@ -21,16 +21,6 @@ I take pride in creating clean, scalable, and maintainable solutions.
   <a href="https://linkedin.com/in/tunahan-akdere-07a935199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
 </p>
 
----
-
-### 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=TunahanAkdere&show_icons=true&theme=tokyonight" height="180em"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanAkdere&layout=compact&theme=tokyonight" height="180em"/>
-</p>
----
-
 ### 🛠️ Technologies & Tools
 
 <table>
