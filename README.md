@@ -52,6 +52,8 @@ I take pride in creating clean, scalable, and maintainable solutions.
   </tr>
 </table>
 
+![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TunahanAkdere&theme=github-compact)
+
 ---
 
 <picture>
