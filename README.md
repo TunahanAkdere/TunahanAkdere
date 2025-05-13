@@ -29,11 +29,6 @@ I take pride in creating clean, scalable, and maintainable solutions.
   <img src="https://github-readme-stats.vercel.app/api?username=TunahanAkdere&show_icons=true&theme=tokyonight" height="180em"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanAkdere&layout=compact&theme=tokyonight" height="180em"/>
 </p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=TunahanAkdere&theme=tokyonight"/>
-</p>
-
 ---
 
 ### 🛠️ Technologies & Tools
