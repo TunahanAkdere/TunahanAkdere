@@ -41,9 +41,6 @@ I take pride in creating clean, scalable, and maintainable solutions.
     <td><img height="30" src="https://skillicons.dev/icons?i=git,github,vscode,postman,linux,figma"/></td>
   </tr>
 </table>
-
-![GitHub Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=TunahanAkdere&theme=github-compact)
-
 ---
 
 <picture>
