@@ -1,6 +1,7 @@
 # 💫 About Me:
 Hi there! I'm Tunahan 👋<br>🚀 I'm an aspiring software engineer passionate about building impactful and user-centric applications. I specialize in crafting modern Android UIs using Jetpack Compose and developing robust backend services with the .NET platform.<br>Beyond that, I work with Python for data analysis and simulations, and integrate real-world services through Firebase and OpenAI APIs.<br>I take pride in creating clean, scalable, and maintainable solutions.<br><br>🎯 Currently developing a Jetpack Compose-based language learning app called Epilo<br>🔧 Actively exploring: Spring Boot, Clean Architecture, Google Play Billing, OpenAI API integration<br>📚 Interests: Android, Backend Systems, Artificial Intelligence, Data Analytics, UI/UX, EdTech<br>💬 Topics I enjoy discussing: Kotlin, Compose, .NET, Firebase, Python, React, REST APIs, AI<br>🎼 Fun fact: I love coding with classical music playing in the background 🎧<br>
 
+> _“Your words, your world.” – Epilo_
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/tunahnr) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahanakdere) 
@@ -11,13 +12,19 @@ Hi there! I'm Tunahan 👋<br>🚀 I'm an aspiring software engineer passionate 
 ## 📊 GitHub Stats:
 <div align="center">
 
-![](https://github-readme-stats.vercel.app/api?username=TunahanAkdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true)
-![](https://nirzak-streak-stats.vercel.app/?user=TunahanAkdere&theme=dark&hide_border=false)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanAkdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+<!-- Genel GitHub İstatistikleri -->
+<img src="https://github-readme-stats.vercel.app/api?username=TunahanAkdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true" height="160px" />
+&nbsp;&nbsp;
+
+<!-- GitHub Streak İstatistikleri -->
+<img src="https://nirzak-streak-stats.vercel.app/?user=TunahanAkdere&theme=dark&hide_border=false" height="160px" />
+&nbsp;&nbsp;
+
+<!-- En Çok Kullanılan Diller -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TunahanAkdere&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" height="160px" />
+
 </div>
 
-
-> _“Your words, your world.” – Epilo_
 
 [![](https://visitcount.itsvg.in/api?id=TunahanAkdere&icon=0&color=0)](https://visitcount.itsvg.in)
 
