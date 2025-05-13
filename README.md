@@ -1,20 +1,21 @@
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
 
-### Merhaba! Ben Tunahan 👋
+### Hi there! I'm Tunahan 👋
 
-🚀 Yazılım geliştirme tutkunu bir mühendis adayıyım. Jetpack Compose ile modern Android arayüzleri geliştiriyor, .NET platformuyla sağlam backend servisleri inşa ediyorum.  
-Aynı zamanda Python ile veri analizleri ve simülasyonlar üzerinde çalışıyor, Firebase ve OpenAI gibi servislerle gerçek dünya ile etkileşimli sistemler geliştiriyorum.  
-Kullanıcı odaklı, temiz ve sürdürülebilir çözümler üretmeyi seviyorum.
+🚀 I'm an aspiring software engineer passionate about building impactful and user-centric applications. I specialize in crafting modern Android UIs using Jetpack Compose and developing robust backend services with the .NET platform.  
+Beyond that, I work with Python for data analysis and simulations, and integrate real-world services through Firebase and OpenAI APIs.  
+I take pride in creating clean, scalable, and maintainable solutions.
 
-- 🎯 Şu anda Jetpack Compose tabanlı bir dil öğrenme uygulaması (Epilo) geliştiriyorum.
-- 🔧 Öğreniyorum: Spring Boot, Clean Architecture, Google Play Billing, OpenAI API entegrasyonu
-- 📚 İlgi alanlarım: Android, Backend, Yapay Zekâ, Veri Analitiği, UI/UX, Eğitim teknolojileri
-- 💬 Sorabileceğiniz konular: Kotlin, Compose, .NET, Firebase, Python, React, REST API, AI
-- 🎉 Eğlenceli gerçek: Kod yazarken klasik müzik dinlemeyi severim 🎧
+- 🎯 Currently developing a Jetpack Compose-based language learning app called **Epilo**
+- 🔧 Actively exploring: Spring Boot, Clean Architecture, Google Play Billing, OpenAI API integration
+- 📚 Interests: Android, Backend Systems, Artificial Intelligence, Data Analytics, UI/UX, EdTech
+- 💬 Topics I enjoy discussing: Kotlin, Compose, .NET, Firebase, Python, React, REST APIs, AI
+- 🎼 Fun fact: I love coding with classical music playing in the background 🎧
 
 ---
 
-### 📬 Benimle İletişime Geçin
+### 📬 Let's Connect
+
 <p align="left">
   <a href="mailto:tunahanakderem@gmail.com"><img src="https://img.shields.io/badge/-Gmail-red?style=flat-square&logo=gmail&logoColor=white"/></a>
   <a href="https://linkedin.com/in/tunahan-akdere-07a935199" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=linkedin&logoColor=white"/></a>
@@ -22,7 +23,7 @@ Kullanıcı odaklı, temiz ve sürdürülebilir çözümler üretmeyi seviyorum.
 
 ---
 
-### 📊 GitHub Aktiviteleri
+### 📊 GitHub Activity
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=TunahanAkdere&show_icons=true&theme=tokyonight" height="180em"/>
@@ -35,7 +36,7 @@ Kullanıcı odaklı, temiz ve sürdürülebilir çözümler üretmeyi seviyorum.
 
 ---
 
-### 🛠️ Teknolojiler ve Araçlar
+### 🛠️ Technologies & Tools
 
 <table>
   <tr>
@@ -56,6 +57,8 @@ Kullanıcı odaklı, temiz ve sürdürülebilir çözümler üretmeyi seviyorum.
   </tr>
 </table>
 
+---
+
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/TunahanAkdere/TunahanAkdere/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/TunahanAkdere/TunahanAkdere/output/github-snake.svg" />
@@ -64,5 +67,4 @@ Kullanıcı odaklı, temiz ve sürdürülebilir çözümler üretmeyi seviyorum.
 
 ---
 
-> “Your words, your world.” – Epilo
-
+> _“Your words, your world.” – Epilo_
