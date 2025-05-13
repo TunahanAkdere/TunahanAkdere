@@ -1,7 +1,7 @@
 # 💫 About Me
 Hi there! I'm Tunahan 👋<br>🚀 I'm an aspiring software engineer passionate about building impactful and user-centric applications. I specialize in crafting modern Android UIs using Jetpack Compose and developing robust backend services with the .NET platform.<br>Beyond that, I work with Python for data analysis and simulations, and integrate real-world services through Firebase and OpenAI APIs.<br>I take pride in creating clean, scalable, and maintainable solutions.<br><br>🎯 Currently developing a Jetpack Compose-based language learning app called Epilo<br>🔧 Actively exploring: Spring Boot, Clean Architecture, Google Play Billing, OpenAI API integration<br>📚 Interests: Android, Backend Systems, Artificial Intelligence, Data Analytics, UI/UX, EdTech<br>💬 Topics I enjoy discussing: Kotlin, Compose, .NET, Firebase, Python, React, REST APIs, AI<br>🎼 Fun fact: I love coding with classical music playing in the background 🎧<br>
 
-> _“Your words, your world.” – Epilo_
+> _"Every language learner is, in essence, the author of their own story." – Epilo_
 
 ## 🌐 Socials
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/tunahanakdere)  [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:tunahanakderem@gmail.com)
